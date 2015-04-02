@@ -3,10 +3,7 @@
 Trie: Trie | 
 (Insert and Search), 
 Trie | (Delete), 
-Longest prefix matching – A Trie based solution in Java, 
-Print unique rows in a given boolean matrix. 
-How to Implement Reverse DNS Look Up Cache?, 
-How to Implement Forward DNS Look Up Cache?,
+Anagram Finding Using Trie.
 
 AVL Tree: AVL Tree | Set 1 (Insertion), AVL Tree | Set 2 (Deletion).
 
